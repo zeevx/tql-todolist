@@ -8,4 +8,6 @@ A Live TodoList App API, built with Laravel using ROUTE MODEL BINDING.
 
 Link: https://tql-todolist.herokuapp.com/
 
+API EndPoint Link: https://tql-todolist.herokuapp.com/api
+
 Documentation: https://documenter.getpostman.com/view/11560803/TVzNHet7
