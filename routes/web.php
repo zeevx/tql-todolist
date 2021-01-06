@@ -19,5 +19,7 @@ Route::get('/', function () {
 });
 
 Route::get('/migrate', function () {
-    Artisan::call('migrate', array('--path' => 'app/migrations', '--force' => true));
+    /* php artisan migrate */
+    Artisan::call('migrate');
+    dd('all migration run successfully');
 });
